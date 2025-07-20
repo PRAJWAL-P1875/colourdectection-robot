@@ -87,7 +87,8 @@ Based on the color:
 After the action, it resumes line-following mode.
 
 📸 Demo
-(Insert a YouTube link or GIF if available)
+<img width="672" height="425" alt="Screenshot 2025-07-20 120920" src="https://github.com/user-attachments/assets/b6ad4141-f859-4ebd-9d41-7f9e27323fff" />
+
 
 👨‍💻 Author
 Prajwal .P
